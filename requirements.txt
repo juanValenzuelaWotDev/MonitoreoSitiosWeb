@@ -1,0 +1,8 @@
+certifi
+charset-normalizer
+idna
+pip
+python-dotenv
+requests
+slack_sdk
+urllib3
